@@ -1,0 +1,22 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Personal portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "isabelle",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/izybelly/one-page-website.git"
+  },
+  "keywords": [
+    "portfolio"
+  ],
+  "bugs": {
+    "url": "https://github.com/izybelly/one-page-website/issues"
+  },
+  "homepage": "https://github.com/izybelly/one-page-website#readme"
+}
